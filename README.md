@@ -1,4 +1,4 @@
-# 📚 Estruturas de Dados e Algoritmos com Python
+# 📚 Estruturas de Dados: um guia prático e descomplicado com Python
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
